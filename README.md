@@ -27,4 +27,6 @@
 
 （2）催眠疗法（hypnotherapy）
 
+（3）结构性解离理论（The Theory of Structural Dissociation）
+
 7. 如果发现该文件夹的任何bug，请加小谈微信：titus283，告知小谈，经小谈核实之小谈后会修复bug。
