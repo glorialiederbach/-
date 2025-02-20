@@ -15,12 +15,12 @@
             <ItemID>A41BA2A1-C599-43C2-99CC-8C1A7FFC2C24</ItemID>
         </ExpandedItems>
         <Selection>
-            <ItemID>9FFBA333-8432-41C1-91F5-1302DFE283CA</ItemID>
+            <ItemID>7A583553-3A84-40D6-B9B9-0430B8CD3E39</ItemID>
         </Selection>
         <SearchResultsSort Titles="Ascending" Dates="Ascending">None</SearchResultsSort>
     </Binder>
     <Inspector Show="No" View="Notes">
-        <ShowProjectBookmarks>Yes</ShowProjectBookmarks>
+        <ShowProjectBookmarks>No</ShowProjectBookmarks>
         <ShowSimilarTexts>No</ShowSimilarTexts>
         <Collapse>CustomMetaData</Collapse>
         <FootnoteNumbers Prompt="No">No</FootnoteNumbers>
@@ -60,19 +60,24 @@
         <PageLayout Facing="No">No</PageLayout>
         <TypewriterScrolling>Yes</TypewriterScrolling>
     </FullScreen>
-    <Editors Primary="Editor1">
+    <Editors Primary="Editor1" Active="Editor1">
         <Editor1>
             <View>
                 <ShowHeader>Yes</ShowHeader>
                 <ShowFooter>Yes</ShowFooter>
-                <GroupsViewMode>Corkboard</GroupsViewMode>
-                <CurrentViewMode>Single</CurrentViewMode>
+                <GroupsViewMode>Scrivenings</GroupsViewMode>
+                <CurrentViewMode>Scrivenings</CurrentViewMode>
                 <SelectionAffects>Current</SelectionAffects>
                 <Content>
-                    <ItemID>9FFBA333-8432-41C1-91F5-1302DFE283CA</ItemID>
+                    <ItemID>7A583553-3A84-40D6-B9B9-0430B8CD3E39</ItemID>
                 </Content>
-                <NavigationHistory CurrentIndex="0">
+                <NavigationHistory CurrentIndex="5">
                     <HistoryItem Type="BinderItems" ViewMode="Single">9FFBA333-8432-41C1-91F5-1302DFE283CA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Scrivenings">7A583553-3A84-40D6-B9B9-0430B8CD3E39</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">A097A466-32FF-491F-8E6B-6DCD12185DE1</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Scrivenings">7A583553-3A84-40D6-B9B9-0430B8CD3E39</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">9FFBA333-8432-41C1-91F5-1302DFE283CA</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Scrivenings">7A583553-3A84-40D6-B9B9-0430B8CD3E39</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -91,7 +96,7 @@
                 </Columns>
                 <TitlesOnly>No</TitlesOnly>
                 <HideIcons>No</HideIcons>
-                <ShowNumbers>Yes</ShowNumbers>
+                <ShowNumbers>No</ShowNumbers>
                 <KeywordsAsChips>No</KeywordsAsChips>
                 <FixedRowHeights>No</FixedRowHeights>
             </Outliner>
@@ -103,7 +108,7 @@
                 <SectionsArrangement>Wrap</SectionsArrangement>
                 <LabelThreadsUseColumns>No</LabelThreadsUseColumns>
             </Corkboard>
-            <Copyholder PreferredOrientation="None" VerticalPos="Right" HorizontalPos="Bottom">
+            <Copyholder PreferredOrientation="Vertical" VerticalPos="Right" HorizontalPos="Bottom">
                 <Content></Content>
                 <Text>
                     <ShowRuler>No</ShowRuler>
@@ -119,7 +124,7 @@
                 <ShowFooter>Yes</ShowFooter>
                 <GroupsViewMode>Corkboard</GroupsViewMode>
                 <CurrentViewMode>Corkboard</CurrentViewMode>
-                <SelectionAffects>Current</SelectionAffects>
+                <SelectionAffects>None</SelectionAffects>
                 <Content/>
                 <NavigationHistory CurrentIndex="-1"/>
             </View>
@@ -151,7 +156,7 @@
                 <SectionsArrangement>Wrap</SectionsArrangement>
                 <LabelThreadsUseColumns>No</LabelThreadsUseColumns>
             </Corkboard>
-            <Copyholder PreferredOrientation="None" VerticalPos="Right" HorizontalPos="Bottom">
+            <Copyholder PreferredOrientation="Vertical" VerticalPos="Right" HorizontalPos="Bottom">
                 <Content></Content>
                 <Text>
                     <ShowRuler>No</ShowRuler>

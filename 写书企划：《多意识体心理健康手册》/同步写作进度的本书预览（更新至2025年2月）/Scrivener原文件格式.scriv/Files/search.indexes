@@ -158,7 +158,13 @@ Edit the “Title Page” document inside the Front Matter/Manuscript Format fol
 To create your table of contents:
 Holding down the Ctrl key, select all the documents you wish to be included in the contents listing. (Usually this will be “Foreword” and all chapter folders, but not the individual sections inside chapter folders. If you have footnotes and wish them to be added to the end of the manuscript as endnotes, you should also include the “Endnotes” document inside “Back Matter”.)
 Go to Edit &gt; Copy Special &gt; Copy Documents as ToC.
-Paste into the “Contents” document in the “Manuscript Format” front matter folder. (Tip: Use Format &gt; Font &gt; Underline to change or remove the dotted underline between the chapter names and page numbers. You can also adjust the indentation, alignment, and tab stop position as needed. With the project’s default 1&quot; margins in compile, the 6.5&quot; mark on the ruler in the editor will be the right inside edge of the compiled page.)The resulting linked text and page number tags will be replaced with the final chapter names and page numbers in the compiled document.Note that you don’t need to do this every time you compile, only when chapters have been added, deleted, renamed or moved around. (Note to Microsoft Word users: If you export to Word, you may need to generate a print preview in Word to force the page numbers to show up correctly—they may appear as question marks before doing so.)You don’t have to use “Copy Documents as ToC” to create a table of contents, by the way. You could equally construct one yourself using document links and placeholders—see “List of All Placeholders…” in the Help menu for more information on the latter.
+Paste into the “Contents” document in the “Manuscript Format” front matter folder. (Tip: Use Format &gt; Font &gt; Underline to change or remove the dotted underline between the chapter names and page numbers. You can also adjust the indentation, alignment, and tab stop position as needed. With the project’s default 1&quot; margins in compile, the 6.5&quot; mark on the ruler in the editor will be the right inside edge of the compiled page.)
+
+The resulting linked text and page number tags will be replaced with the final chapter names and page numbers in the compiled document.
+
+Note that you don’t need to do this every time you compile, only when chapters have been added, deleted, renamed or moved around. (Note to Microsoft Word users: If you export to Word, you may need to generate a print preview in Word to force the page numbers to show up correctly—they may appear as question marks before doing so.)
+
+You don’t have to use “Copy Documents as ToC” to create a table of contents, by the way. You could equally construct one yourself using document links and placeholders—see “List of All Placeholders…” in the Help menu for more information on the latter.
 Go to File &gt; Compile…
 Next to “Compile for”, select “Print”, “PDF” or one of the rich text file formats such as RTF, Word or OpenOffice.
 Select either “Non-Fiction Manuscript (Courier)” or “Non-Fiction Manuscript (Times)” from the list of formats on the left.
@@ -204,7 +210,9 @@ In the binder, select the documents you would like to appear in the table of con
 For a simple flat list, drag the selected documents into the editor and drop them in the empty “Contents” document. Alternatively, if you would like the table of contents indented to match the binder structure, select Edit &gt; Copy Special &gt; Copy Documents as Structured Link List and then click into the text of the “Contents” document and hit Ctrl+V or use Edit &gt; Paste. The documents you wish to appear in the table of contents will now appear as a list of links.
 If you wish to centre the table of contents, select the text and centre it.
 In the Inspector, change the “Section Type” of the “Contents” document to “Contents Page”.
-Remove the editor lock by toggling Navigate &gt; Editor &gt; Lock in Place or deselecting the option from the menu that appears when right-clicking the document icon in the editor header.Now, when you compile, your custom “Contents” document will be used instead of the automatically-generated one. The titles in the links of the “Contents” document will automatically be updated to match those of the final compiled ebook.
+Remove the editor lock by toggling Navigate &gt; Editor &gt; Lock in Place or deselecting the option from the menu that appears when right-clicking the document icon in the editor header.
+
+Now, when you compile, your custom “Contents” document will be used instead of the automatically-generated one. The titles in the links of the “Contents” document will automatically be updated to match those of the final compiled ebook.
 Sample Document
 See the “Sample MS” PDF file in the Research folder for an example of a document that has been created using this template.
 Final Note
