@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.1" Device="LAPTOP-5R946T9P" Modified="2025-02-20 18:56:34 +0800" ModID="F1BF289D-D4CB-4BFC-A950-7EA9A94F3792">
+<ScrivenerProject Template="No" Version="2.0" Identifier="342E5DD6-5812-45AB-982C-E2EAC46CF8EE" Creator="SCRWIN-3.1.5.1" Device="LAPTOP-5R946T9P" Modified="2025-02-20 22:59:16 +0800" ModID="6125F103-2901-4BCA-8AFF-8576BA62DF45">
     <Binder>
         <BinderItem UUID="9FFBA333-8432-41C1-91F5-1302DFE283CA" Type="Text" Created="2019-05-15 01:29:37 +0800" Modified="2021-03-18 16:36:55 +0800">
             <Title>Non-Fiction Format</Title>
@@ -67,8 +67,14 @@
                     <TextSettings>
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentUUIDs>BB360289-7F77-4AF1-A155-43057C51131A</SelectedSubdocumentUUIDs>
+                        <CorkboardSettings>
+                            <Arrangement>Linear</Arrangement>
+                        </CorkboardSettings>
+                    </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="BB360289-7F77-4AF1-A155-43057C51131A" Type="Text" Created="2019-05-15 01:29:37 +0800" Modified="2025-02-20 18:56:32 +0800">
+                        <BinderItem UUID="BB360289-7F77-4AF1-A155-43057C51131A" Type="Text" Created="2019-05-15 01:29:37 +0800" Modified="2025-02-20 19:16:50 +0800">
                             <Title>Title Page</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -336,7 +342,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2025-02-20 18:56:32 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2025-02-20 18:56:34 +0800"/>
+        <PreviousSession Words="0" Characters="0" Date="2025-02-20 22:59:16 +0800"/>
     </ProjectTargets>
     <BookmarksFolderUUID>07B0D7C6-57CE-4D6F-8AD9-11F06A261A5F</BookmarksFolderUUID>
     <RecentWritingHistory Date="2025-02-20 00:00:00 +0800">
