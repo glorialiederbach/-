@@ -26,7 +26,7 @@
 
 网址：https://www.onlinedoctranslator.com/zh-CN/translationform
 
-由于翻译页码的限制，如果需要翻译很多页码的文献或整本书，需要先通过如下网址下载Calibre，该软件是完全免费的，再装Calibre的书籍翻译插件Ebook Translator，具体一步步操作方法攻略在如下网址中。在翻译时先选用完全免费的DeepL(free)引擎，是地表最强翻译AI，然后如果超出DeepL(free)的免费限额，再使用Google(free)殷勤完成书籍余下的翻译，Google(free)殷勤是完全免费的。
+由于翻译页码的限制，如果需要翻译很多页码的文献或整本书，需要先通过如下网址下载Calibre，该软件是完全免费的，再装Calibre的书籍翻译插件Ebook Translator，具体一步步操作方法攻略在如下网址中。在翻译时先选用完全免费的DeepL(free)引擎，是地表最强翻译AI，然后如果超出DeepL(free)的免费限额，再使用Google(free)引擎，完成书籍余下的翻译，Google(free)是完全免费的。
 
 Calibre下载网址https://calibre-ebook.com/zh_CN/download
 
